@@ -1,0 +1,13 @@
+C:\Users\ageno\Source\Repos\AvalicaoFinal\AvalicaoFinal\obj\Debug\netcoreapp3.1\AvalicaoFinal.csprojAssemblyReference.cache
+C:\Users\ageno\Source\Repos\AvalicaoFinal\AvalicaoFinal\obj\Debug\netcoreapp3.1\AvalicaoFinal.AssemblyInfoInputs.cache
+C:\Users\ageno\Source\Repos\AvalicaoFinal\AvalicaoFinal\obj\Debug\netcoreapp3.1\AvalicaoFinal.AssemblyInfo.cs
+C:\Users\ageno\Source\Repos\AvalicaoFinal\AvalicaoFinal\obj\Debug\netcoreapp3.1\AvalicaoFinal.csproj.CoreCompileInputs.cache
+C:\Users\ageno\Source\Repos\AvalicaoFinal\AvalicaoFinal\bin\Debug\netcoreapp3.1\AvalicaoFinal.exe
+C:\Users\ageno\Source\Repos\AvalicaoFinal\AvalicaoFinal\bin\Debug\netcoreapp3.1\AvalicaoFinal.deps.json
+C:\Users\ageno\Source\Repos\AvalicaoFinal\AvalicaoFinal\bin\Debug\netcoreapp3.1\AvalicaoFinal.runtimeconfig.json
+C:\Users\ageno\Source\Repos\AvalicaoFinal\AvalicaoFinal\bin\Debug\netcoreapp3.1\AvalicaoFinal.runtimeconfig.dev.json
+C:\Users\ageno\Source\Repos\AvalicaoFinal\AvalicaoFinal\bin\Debug\netcoreapp3.1\AvalicaoFinal.dll
+C:\Users\ageno\Source\Repos\AvalicaoFinal\AvalicaoFinal\bin\Debug\netcoreapp3.1\AvalicaoFinal.pdb
+C:\Users\ageno\Source\Repos\AvalicaoFinal\AvalicaoFinal\obj\Debug\netcoreapp3.1\AvalicaoFinal.dll
+C:\Users\ageno\Source\Repos\AvalicaoFinal\AvalicaoFinal\obj\Debug\netcoreapp3.1\AvalicaoFinal.pdb
+C:\Users\ageno\Source\Repos\AvalicaoFinal\AvalicaoFinal\obj\Debug\netcoreapp3.1\AvalicaoFinal.genruntimeconfig.cache
