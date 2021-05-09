@@ -1,0 +1,13 @@
+C:\Users\ageno\Source\Repos\AvalicaoDiegnostica\AvalicaoDiegnostica\bin\Debug\netcoreapp3.1\AvalicaoDiegnostica.exe
+C:\Users\ageno\Source\Repos\AvalicaoDiegnostica\AvalicaoDiegnostica\bin\Debug\netcoreapp3.1\AvalicaoDiegnostica.deps.json
+C:\Users\ageno\Source\Repos\AvalicaoDiegnostica\AvalicaoDiegnostica\bin\Debug\netcoreapp3.1\AvalicaoDiegnostica.runtimeconfig.json
+C:\Users\ageno\Source\Repos\AvalicaoDiegnostica\AvalicaoDiegnostica\bin\Debug\netcoreapp3.1\AvalicaoDiegnostica.runtimeconfig.dev.json
+C:\Users\ageno\Source\Repos\AvalicaoDiegnostica\AvalicaoDiegnostica\bin\Debug\netcoreapp3.1\AvalicaoDiegnostica.dll
+C:\Users\ageno\Source\Repos\AvalicaoDiegnostica\AvalicaoDiegnostica\bin\Debug\netcoreapp3.1\AvalicaoDiegnostica.pdb
+C:\Users\ageno\Source\Repos\AvalicaoDiegnostica\AvalicaoDiegnostica\obj\Debug\netcoreapp3.1\AvalicaoDiegnostica.csprojAssemblyReference.cache
+C:\Users\ageno\Source\Repos\AvalicaoDiegnostica\AvalicaoDiegnostica\obj\Debug\netcoreapp3.1\AvalicaoDiegnostica.AssemblyInfoInputs.cache
+C:\Users\ageno\Source\Repos\AvalicaoDiegnostica\AvalicaoDiegnostica\obj\Debug\netcoreapp3.1\AvalicaoDiegnostica.AssemblyInfo.cs
+C:\Users\ageno\Source\Repos\AvalicaoDiegnostica\AvalicaoDiegnostica\obj\Debug\netcoreapp3.1\AvalicaoDiegnostica.csproj.CoreCompileInputs.cache
+C:\Users\ageno\Source\Repos\AvalicaoDiegnostica\AvalicaoDiegnostica\obj\Debug\netcoreapp3.1\AvalicaoDiegnostica.dll
+C:\Users\ageno\Source\Repos\AvalicaoDiegnostica\AvalicaoDiegnostica\obj\Debug\netcoreapp3.1\AvalicaoDiegnostica.pdb
+C:\Users\ageno\Source\Repos\AvalicaoDiegnostica\AvalicaoDiegnostica\obj\Debug\netcoreapp3.1\AvalicaoDiegnostica.genruntimeconfig.cache
