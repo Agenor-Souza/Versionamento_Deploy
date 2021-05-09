@@ -1,0 +1,13 @@
+C:\Users\ageno\Source\Repos\BancoAula\BancoAula\bin\Debug\netcoreapp3.1\BancoAula.exe
+C:\Users\ageno\Source\Repos\BancoAula\BancoAula\bin\Debug\netcoreapp3.1\BancoAula.deps.json
+C:\Users\ageno\Source\Repos\BancoAula\BancoAula\bin\Debug\netcoreapp3.1\BancoAula.runtimeconfig.json
+C:\Users\ageno\Source\Repos\BancoAula\BancoAula\bin\Debug\netcoreapp3.1\BancoAula.runtimeconfig.dev.json
+C:\Users\ageno\Source\Repos\BancoAula\BancoAula\bin\Debug\netcoreapp3.1\BancoAula.dll
+C:\Users\ageno\Source\Repos\BancoAula\BancoAula\bin\Debug\netcoreapp3.1\BancoAula.pdb
+C:\Users\ageno\Source\Repos\BancoAula\BancoAula\obj\Debug\netcoreapp3.1\BancoAula.csprojAssemblyReference.cache
+C:\Users\ageno\Source\Repos\BancoAula\BancoAula\obj\Debug\netcoreapp3.1\BancoAula.AssemblyInfoInputs.cache
+C:\Users\ageno\Source\Repos\BancoAula\BancoAula\obj\Debug\netcoreapp3.1\BancoAula.AssemblyInfo.cs
+C:\Users\ageno\Source\Repos\BancoAula\BancoAula\obj\Debug\netcoreapp3.1\BancoAula.csproj.CoreCompileInputs.cache
+C:\Users\ageno\Source\Repos\BancoAula\BancoAula\obj\Debug\netcoreapp3.1\BancoAula.dll
+C:\Users\ageno\Source\Repos\BancoAula\BancoAula\obj\Debug\netcoreapp3.1\BancoAula.pdb
+C:\Users\ageno\Source\Repos\BancoAula\BancoAula\obj\Debug\netcoreapp3.1\BancoAula.genruntimeconfig.cache
